@@ -1,0 +1,1 @@
+# hochschule-fuer-architektur-bau-und-geomatik-fhnw.cls
